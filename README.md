@@ -1,7 +1,10 @@
 # Awesome Python Web Frameworks
 
 
-A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.)
+> A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.)
+
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ---
 
