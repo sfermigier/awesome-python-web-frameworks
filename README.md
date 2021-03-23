@@ -31,8 +31,9 @@
 
 ### Async
 
-- [FastAPI](https://github.com/tiangolo/fastapi) ★28766 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [FastAPI](https://github.com/tiangolo/fastapi) ★28768 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Sanic](https://github.com/sanic-org/sanic) ★14703 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
+- [Aiohttp](https://github.com/aio-libs/aiohttp) ★10979 - Asynchronous HTTP client/server framework for asyncio and Python
 - [Starlette](https://github.com/encode/starlette) ★5312 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★454 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
@@ -48,6 +49,5 @@ See the "Frameworks and Libraries" section in the [Python Developers Survey 2020
 
 ## Additional resources
 
-- [Awesome Python -> Web Frameworks](https://github.com/vinta/awesome-python#web-frameworks) - Not thorough enough to my taste.
-- [Awesome Python -> RESTful API](https://github.com/vinta/awesome-python#restful-api)
+- Awesome Python has some web frameworks, in two sections: [Web Frameworks](https://github.com/vinta/awesome-python#web-frameworks) and [RESTful API](https://github.com/vinta/awesome-python#restful-api) but it's not very thorough.
 
