@@ -37,3 +37,14 @@
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★454 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
 
+## Usage stats
+
+See the "Frameworks and Libraries" section in the [Python Developers Survey 2020](https://www.jetbrains.com/lp/python-developers-survey-2020/)
+
+
+
+## Additional resources
+
+- [Awesome Python -> Web Frameworks](https://github.com/vinta/awesome-python#web-frameworks) - Not thorough enough to my taste.
+- [Awesome Python -> RESTful API](https://github.com/vinta/awesome-python#restful-api)
+
