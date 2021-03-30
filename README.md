@@ -66,6 +66,10 @@ See the "Frameworks and Libraries" section in the [Python Developers Survey 2020
 ![Stats](https://raw.githubusercontent.com/sfermigier/awesome-python-web-frameworks/main/python-web-frameworks-usage.png)
 
 
+## Comparisons
+
+- [Hello to the World in 8 Web Frameworks (Micro, Batteries Included & Async)](https://noti.st/aaronbassett/lK9Ah7/hello-to-the-world-in-8-web-frameworks-micro-batteries-included-async) - presentation by Aaron Bassett at PyCon AU (2018)
+
 
 ## Additional resources
 
