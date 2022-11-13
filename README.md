@@ -36,7 +36,7 @@
 
 ### Async
 
-- [FastAPI](https://github.com/tiangolo/fastapi) ★51501 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [FastAPI](https://github.com/tiangolo/fastapi) ★51501 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
   - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi)
 - [Sanic](https://github.com/sanic-org/sanic) ★16595 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
   - [Awesome Sanic](https://github.com/mekicha/awesome-sanic)
