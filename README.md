@@ -40,8 +40,9 @@
   [Awesome FastAPI ★4938](https://github.com/mjhea0/awesome-fastapi)
 [Sanic ★16725](https://github.com/sanic-org/sanic) - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
   [Awesome Sanic ★617](https://github.com/mekicha/awesome-sanic)
-[Aiohttp ★13138](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
+[Aiohttp ★13138](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python.
 [Starlette ★7727](https://github.com/encode/starlette) - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
+[Robyn ★1769](https://github.com/sansyrox/robyn) - a fast and extensible async python web server with a rust runtime.
 [BlackSheep ★1106](https://github.com/Neoteroi/BlackSheep) - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
 
