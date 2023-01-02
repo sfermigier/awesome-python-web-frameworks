@@ -65,6 +65,8 @@
 - [IDOM](https://github.com/idom-team/idom) ★700 - Create highly interactive web pages purely in Python
 - [Tetra](https://github.com/samwillis/tetra) ★464 - a full stack component framework for Django using Alpine.js
 - [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) ★286 - a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
+- [Reacton](https://github.com/widgetti/reacton) - A pure Python port of React for ipywidgets.
+- [Starfyre](https://github.com/sansyrox/starfyre) - A Python Framework for writing Reactive Front-End Applications.
 
 
 ## Usage stats
