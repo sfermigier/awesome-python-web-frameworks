@@ -17,7 +17,7 @@
 
 ## Full-stack frameworks, but data-layer agnostic
 
-- [Flask](https://github.com/pallets/flask) ★61441 - a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+- [Flask](https://github.com/pallets/flask) ★61442 - a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
   - [Awesome Flask ★1050](https://github.com/mjhea0/awesome-flask)
 - [Pyramid](https://github.com/Pylons/pyramid) ★3741 - a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
   - [Awesome Pyramid ★531](https://github.com/uralbash/awesome-pyramid)
@@ -43,11 +43,11 @@
 - [Aiohttp](https://github.com/aio-libs/aiohttp) ★13144 - Asynchronous HTTP client/server framework for asyncio and Python.
 - [Starlette](https://github.com/encode/starlette) ★7733 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
 - [Robyn](https://github.com/sansyrox/robyn) ★1773 - a fast and extensible async python web server with a rust runtime.
-- [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1111 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 - [Starlite](https://github.com/starlite-api/starlite) ★1540 -  Light, Flexible and Extensible ASGI API framework,  offering first class typing support and a full Pydantic integration.
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1111 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
 
-### REST frameworks
+## REST frameworks
 
 - [Django Rest Framework](https://github.com/encode/django-rest-framework) ★24708 - a powerful and flexible toolkit for building Web APIs.
 - [Eve](https://github.com/pyeve/eve) ★6569 - an open source Python REST API framework based on Flask. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
@@ -58,6 +58,13 @@
 - [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★506 - a REST API framework built upon Flask and marshmallow.
 
 - [Ripozo](https://github.com/vertical-knowledge/ripozo) ★197 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
+
+## Front-end frameworks
+
+- [Flet](https://github.com/flet-dev/flet) ★3161 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [IDOM](https://github.com/idom-team/idom) ★700 - Create highly interactive web pages purely in Python
+- [Tetra](https://github.com/samwillis/tetra) ★464 - a full stack component framework for Django using Alpine.js
+- [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) ★286 - a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
 
 
 ## Usage stats
