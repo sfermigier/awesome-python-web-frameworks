@@ -47,6 +47,9 @@
 - [Starlite](https://github.com/starlite-api/starlite) ★1540 -  Light, Flexible and Extensible ASGI API framework,  offering first class typing support and a full Pydantic integration.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1111 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
+### More
+- [uapi](https://github.com/Tinche/uapi) - a high-level, extremely fast Python microframework for writing HTTP APIs, either synchronously or asynchronously. Uses a lower-level HTTP framework to run. Currently supported frameworks are aiohttp, Flask, Quart, and Starlette.
+
 
 ## REST frameworks
 
