@@ -68,7 +68,7 @@
 
 - [Flet](https://github.com/flet-dev/flet) ★5453 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [Flexx](https://github.com/flexxui/flexx) ★3129 -  Write desktop and web apps in pure Python
-- [IDOM](https://github.com/idom-team/idom) ★1922 - Create highly interactive web pages purely in Python
+- [ReactPy](https://github.com/reactive-python/reactpy) ★1922 - User interfaces in Python without Javascript
 - [Reactor](https://github.com/edelvalle/reactor) ★556 -  Phoenix LiveView but for Django
 - [Tetra](https://github.com/samwillis/tetra) ★486 - a full stack component framework for Django using Alpine.js
 - [Django-Suckpuppet](https://github.com/jonathan-s/django-sockpuppet) ★431 - Build reactive applications with the django tooling you already know and love.
