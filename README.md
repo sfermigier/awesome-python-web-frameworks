@@ -11,41 +11,41 @@
 ## Full-stack frameworks, including data layer (ORM)
 
 
-- [Django](https://github.com/django/django) ★74552 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
+- [Django](https://github.com/django/django) ★74711 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
   - [Awesome Django ★6413](https://github.com/wsvincent/awesome-django)
 
 
 ## Full-stack frameworks, but data-layer agnostic
 
-- [Flask](https://github.com/pallets/flask) ★65218 - a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
+- [Flask](https://github.com/pallets/flask) ★65295 - a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
   - [Awesome Flask ★1050](https://github.com/mjhea0/awesome-flask)
-- [Pyramid](https://github.com/Pylons/pyramid) ★3868 - a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
+- [Pyramid](https://github.com/Pylons/pyramid) ★3872 - a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
   - [Awesome Pyramid ★531](https://github.com/uralbash/awesome-pyramid)
-- [Quart](https://github.com/pallets/quart) ★2371 - Quart is an asyncio reimplementation of the popular Flask microframework API. This means that if you understand Flask you understand Quart.
+- [Quart](https://github.com/pallets/quart) ★2393 - Quart is an asyncio reimplementation of the popular Flask microframework API. This means that if you understand Flask you understand Quart.
 
 
 ## Micro-frameworks
 
 ### Sync
 
-- [Falcon](https://github.com/falconry/falcon) ★9294 - a reliable, high-performance Python web framework for building large-scale app backends and microservices. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective. Also async.
-- [Bottle](https://github.com/bottlepy/bottle) ★8198 - a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
-- [Hug](https://github.com/hugapi/hug) ★6740 - aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
-- [Molten](https://github.com/Bogdanp/molten) ★979 - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
-- [Morepath](https://github.com/morepath/morepath) ★395 - "web microframework with super powers". An application consists of models. Each type of model is published on a URL path. Content is exposed to the web using views.
+- [Falcon](https://github.com/falconry/falcon) ★9295 - a reliable, high-performance Python web framework for building large-scale app backends and microservices. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective. Also async.
+- [Bottle](https://github.com/bottlepy/bottle) ★8206 - a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
+- [Hug](https://github.com/hugapi/hug) ★6742 - aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
+- [Molten](https://github.com/Bogdanp/molten) ★981 - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
+- [Morepath](https://github.com/morepath/morepath) ★396 - "web microframework with super powers". An application consists of models. Each type of model is published on a URL path. Content is exposed to the web using views.
 
 
 ### Async
 
-- [FastAPI](https://github.com/tiangolo/fastapi) ★65866 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
+- [FastAPI](https://github.com/tiangolo/fastapi) ★66255 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
   - [Awesome FastAPI ★4948](https://github.com/mjhea0/awesome-fastapi)
-- [Sanic](https://github.com/sanic-org/sanic) ★17492 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
+- [Sanic](https://github.com/sanic-org/sanic) ★17506 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
   - [Awesome Sanic ★619](https://github.com/mekicha/awesome-sanic)
-- [Aiohttp](https://github.com/aio-libs/aiohttp) ★14188 - Asynchronous HTTP client/server framework for asyncio and Python.
-- [Starlette](https://github.com/encode/starlette) ★8960 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
-- [Litestar](https://github.com/litestar-org/litestar) ★3602 - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
-- [Robyn](https://github.com/sansyrox/robyn) ★3128 - a fast and extensible async python web server with a rust runtime.
-- [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1551 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
+- [Aiohttp](https://github.com/aio-libs/aiohttp) ★14211 - Asynchronous HTTP client/server framework for asyncio and Python.
+- [Starlette](https://github.com/encode/starlette) ★8988 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
+- [Litestar](https://github.com/litestar-org/litestar) ★3714 - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
+- [Robyn](https://github.com/sansyrox/robyn) ★3150 - a fast and extensible async python web server with a rust runtime.
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1562 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 
 
 ### More
@@ -55,28 +55,29 @@
 
 ## REST frameworks
 
-- [Django Rest Framework](https://github.com/encode/django-rest-framework) ★26794 - a powerful and flexible toolkit for building Web APIs.
-- [Eve](https://github.com/pyeve/eve) ★6646 - an open source Python REST API framework based on Flask. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
-- [Flask-Restful](https://github.com/flask-restful/flask-restful) ★6715 - Simple framework for creating REST APIs.
-- [API star](https://github.com/encode/apistar) ★5592 - a framework-agnostic toolkit for working with OpenAPI or Swagger schemas.
-- [Connexion](https://github.com/zalando/connexion) ★4352 - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
-- [Flask-Restx](https://github.com/python-restx/flask-restx) ★2004 - Fully featured framework for fast, easy and documented API development with Flask.
-- [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★600 - a REST API framework built upon Flask and marshmallow.
+- [Django Rest Framework](https://github.com/encode/django-rest-framework) ★26860 - a powerful and flexible toolkit for building Web APIs.
+- [Eve](https://github.com/pyeve/eve) ★6649 - an open source Python REST API framework based on Flask. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
+- [Flask-Restful](https://github.com/flask-restful/flask-restful) ★6722 - Simple framework for creating REST APIs.
+- [API star](https://github.com/encode/apistar) ★5591 - a framework-agnostic toolkit for working with OpenAPI or Swagger schemas.
+- [Connexion](https://github.com/zalando/connexion) ★4358 - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
+- [Flask-Restx](https://github.com/python-restx/flask-restx) ★2011 - Fully featured framework for fast, easy and documented API development with Flask.
+- [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★603 - a REST API framework built upon Flask and marshmallow.
 
 - [Ripozo](https://github.com/vertical-knowledge/ripozo) ★198 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
 
 
 ## Front-end frameworks
 
-- [Flet](https://github.com/flet-dev/flet) ★7539 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [ReactPy](https://github.com/reactive-python/reactpy) ★7321 - User interfaces in Python without Javascript
-- [Flexx](https://github.com/flexxui/flexx) ★3178 -  Write desktop and web apps in pure Python
-- [Reactor](https://github.com/edelvalle/reactor) ★593 -  Phoenix LiveView but for Django
-- [Tetra](https://github.com/samwillis/tetra) ★501 - a full stack component framework for Django using Alpine.js
-- [Django-Suckpuppet](https://github.com/jonathan-s/django-sockpuppet) ★437 - Build reactive applications with the django tooling you already know and love.
+- [Flet](https://github.com/flet-dev/flet) ★7643 - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [ReactPy](https://github.com/reactive-python/reactpy) ★7366 - User interfaces in Python without Javascript
+- [Flexx](https://github.com/flexxui/flexx) ★3183 -  Write desktop and web apps in pure Python
+- [Reactor](https://github.com/edelvalle/reactor) ★595 -  Phoenix LiveView but for Django
+- [Tetra](https://github.com/samwillis/tetra) ★504 - a full stack component framework for Django using Alpine.js
+- [Django-Suckpuppet](https://github.com/jonathan-s/django-sockpuppet) ★440 - Build reactive applications with the django tooling you already know and love.
 - [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) ★303 - a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
-- [Starfyre](https://github.com/sansyrox/starfyre) ★402 - A Python Framework for writing Reactive Front-End Applications.
-- [Reacton](https://github.com/widgetti/reacton) ★249 - A pure Python port of React for ipywidgets.
+- [Starfyre](https://github.com/sansyrox/starfyre) ★406 - A Python Framework for writing Reactive Front-End Applications.
+- [Reacton](https://github.com/widgetti/reacton) ★256 - A pure Python port of React for ipywidgets.
+- [enaml-web](https://github.com/codelv/enaml-web) ★99 - Build interactive websites with [enaml](https://github.com/nucleic/enaml)
 
 
 ## Usage stats
