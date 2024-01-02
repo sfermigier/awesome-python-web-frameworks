@@ -13,7 +13,7 @@
 
 - [Django](https://github.com/django/django) ★74743 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
   - [Awesome Django ★6413](https://github.com/wsvincent/awesome-django)
-
+- [Emmett](https://github.com/emmett-framework/emmett) ★ 898 - a full-stack Python web framework designed with simplicity in mind.
 
 ## Full-stack frameworks, but data-layer agnostic
 
