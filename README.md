@@ -23,7 +23,6 @@
   - [Awesome Pyramid ★531](https://github.com/uralbash/awesome-pyramid)
 - [Quart](https://github.com/pallets/quart) ★2619 - Quart is an asyncio reimplementation of the popular Flask microframework API. This means that if you understand Flask you understand Quart.
 
-
 ## Micro-frameworks
 
 ### Sync
@@ -64,7 +63,7 @@
 - [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★619 - a REST API framework built upon Flask and marshmallow.
 
 - [Ripozo](https://github.com/vertical-knowledge/ripozo) ★200 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
-
+- [Djapy](https://github.com/Bishwas-py/djapy/) ★51 - Django coupled with Pydantic, RestAPI framework 
 
 ## Front-end frameworks
 
