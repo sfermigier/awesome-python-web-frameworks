@@ -11,7 +11,7 @@
 ## Full-stack frameworks, including data layer (ORM)
 
 
-- [Django](https://github.com/django/django) ★79448 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
+- [Django](https://github.com/django/django) ★79447 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
   - [Awesome Django](https://github.com/wsvincent/awesome-django) ★9307
 - [Emmett](https://github.com/emmett-framework/emmett) ★1053 - a full-stack Python web framework designed with simplicity in mind.
 
@@ -36,14 +36,14 @@
 
 ### Async
 
-- [FastAPI](https://github.com/tiangolo/fastapi) ★76235 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
+- [FastAPI](https://github.com/tiangolo/fastapi) ★76236 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
   - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) ★8440
 - [Sanic](https://github.com/sanic-org/sanic) ★18030 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
   - [Awesome Sanic](https://github.com/mekicha/awesome-sanic) ★753
 - [Aiohttp](https://github.com/aio-libs/aiohttp) ★15035 - Asynchronous HTTP client/server framework for asyncio and Python.
 - [Starlette](https://github.com/encode/starlette) ★10120 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
 - [Litestar](https://github.com/litestar-org/litestar) ★5408 - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
-  - [Awesome Litestar](https://github.com/litestar-org/awesome-litestar.git) ★68
+  - [Awesome Litestar](https://github.com/litestar-org/awesome-litestar) ★69
 - [Fasthtml](https://github.com/AnswerDotAI/fasthtml) ★5216 - "The fastest way to create an HTML app". (Based on Starlette).
 - [Robyn](https://github.com/sansyrox/robyn) ★4291 - a fast and extensible async python web server with a rust runtime.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1858 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
@@ -94,8 +94,9 @@
 
 ## Http servers
 
-- [gunicorn](https://github.com/benoitc/gunicorn) ★9772 - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. .
+- [gunicorn](https://github.com/benoitc/gunicorn) ★9772 - 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [uvicorn](https://github.com/encode/uvicorn) ★8421 - Uvicorn is an ASGI web server implementation for Python.
+- [bjoern](https://github.com/jonashaag/bjoern) ★2999 - A screamingly fast Python 2/3 WSGI server written in C.
 - [Granian](https://github.com/emmett-framework/granian) ★2685 - A Rust HTTP server for Python applications.
 - [daphne](https://github.com/django/daphne) ★2370 - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP, developed to power Django Channels.
 - [Waitress](https://github.com/Pylons/waitress) ★1438 - A pure-Python WSGI server, it's simple, lightweight, and production-ready. It's often used with Pyramid and other WSGI applications.
