@@ -11,7 +11,7 @@
 ## Full-stack frameworks, including data layer (ORM)
 
 
--[Django ★79447](https://github.com/django/django) - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
+- [Django ★79447](https://github.com/django/django) - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
   - [Awesome Django ★9307](https://github.com/wsvincent/awesome-django)
 -[Emmett ★1053](https://github.com/emmett-framework/emmett) - a full-stack Python web framework designed with simplicity in mind.
 
@@ -107,9 +107,9 @@ See the "Frameworks and Libraries" section in the [Python Developers Survey 2020
 
 ![Stats](https://raw.githubusercontent.com/sfermigier/awesome-python-web-frameworks/main/python-web-frameworks-usage.png)
 
-Update 2021: <https://lp.jetbrains.com/python-developers-survey-2021/#FrameworksLibraries>
-Update 2022: <https://lp.jetbrains.com/python-developers-survey-2022/#FrameworksLibraries>
-Update 2023: <https://lp.jetbrains.com/python-developers-survey-2023/#FrameworksLibraries>
+- Update 2021: <https://lp.jetbrains.com/python-developers-survey-2021/#FrameworksLibraries>
+- Update 2022: <https://lp.jetbrains.com/python-developers-survey-2022/#FrameworksLibraries>
+- Update 2023: <https://lp.jetbrains.com/python-developers-survey-2023/#FrameworksLibraries>
 
 
 ## Comparisons
