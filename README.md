@@ -13,7 +13,7 @@
 
 - [Django ★79447](https://github.com/django/django) - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
   - [Awesome Django ★9307](https://github.com/wsvincent/awesome-django)
--[Emmett ★1053](https://github.com/emmett-framework/emmett) - a full-stack Python web framework designed with simplicity in mind.
+- [Emmett ★1053](https://github.com/emmett-framework/emmett) - a full-stack Python web framework designed with simplicity in mind.
 
 ## Full-stack frameworks, but data-layer agnostic
 
@@ -46,7 +46,6 @@
 - [Fasthtml ★5216](https://github.com/AnswerDotAI/fasthtml) - "The fastest way to create an HTML app". (Based on Starlette).
 - [Robyn ★4291](https://github.com/sansyrox/robyn) - a fast and extensible async python web server with a rust runtime.
 - [BlackSheep ★1858](https://github.com/Neoteroi/BlackSheep) - BlackSheep is an asynchronous web framework to build event based web applications with Python.
-- [Emmett ★1053](https://github.com/emmett-framework/emmett) - a full-stack Python web framework designed with simplicity in mind.
 - [Esmerald ★300](https://github.com/dymmond/esmerald) - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application.
 
 
