@@ -73,6 +73,8 @@
 - [Nicegui](https://github.com/zauberzeug/nicegui) ★8957 - Create web-based user interfaces with Python. The nice way.
 - [ReactPy](https://github.com/reactive-python/reactpy) ★7852 - User interfaces in Python without Javascript
 - [Mesop](https://github.com/google/mesop) ★5365 - a Python-based UI framework that allows you to rapidly build web apps like demos and internal apps.
+- [Panel](https://github.com/holoviz/panel) ★4687 - The Powerful Data Exploration & Web App Framework for Python.
+  - [Awesome Panel](https://awesome-panel.org/) ★342.
 - [Flexx](https://github.com/flexxui/flexx) ★3252 -  Write desktop and web apps in pure Python
 - [Reactor](https://github.com/edelvalle/reactor) ★633 -  Phoenix LiveView but for Django
 - [Tetra](https://github.com/samwillis/tetra) ★555 - a full stack component framework for Django using Alpine.js
