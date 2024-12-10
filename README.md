@@ -29,9 +29,7 @@
 
 - [Falcon](https://github.com/falconry/falcon) ★9544 - a reliable, high-performance Python web framework for building large-scale app backends and microservices. It encourages the REST architectural style, and tries to do as little as possible while remaining highly effective. Also async.
 - [Bottle](https://github.com/bottlepy/bottle) ★8470 - a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
-- [Hug](https://github.com/hugapi/hug) ★6863 - aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
 - [Molten](https://github.com/Bogdanp/molten) ★977 - A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.
-- [Morepath](https://github.com/morepath/morepath) ★393 - "web microframework with super powers". An application consists of models. Each type of model is published on a URL path. Content is exposed to the web using views.
 
 ### Async
 
@@ -47,12 +45,17 @@
 - [Robyn](https://github.com/sansyrox/robyn) ★4621 - a fast and extensible async python web server with a rust runtime.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★1897 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 - [Esmerald](https://github.com/dymmond/esmerald) ★324 - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application.
-- [nanoasgi](https://github.com/qweeze/nanoasgi) ★23 - A toy ASGI web framework (170 lines)
 
 
 ### More
 
 - [uapi](https://github.com/Tinche/uapi) ★90 - a high-level, extremely fast Python microframework for writing HTTP APIs, either synchronously or asynchronously. Uses a lower-level HTTP framework to run. Currently supported frameworks are aiohttp, Flask, Quart, and Starlette.
+
+### Dead Frameworks (kept for reference)
+
+- [Hug](https://github.com/hugapi/hug) ★6863 - aims to make developing Python driven APIs as simple as possible, but no simpler. As a result, it drastically simplifies Python API development.
+- [Morepath](https://github.com/morepath/morepath) ★393 - "web microframework with super powers". An application consists of models. Each type of model is published on a URL path. Content is exposed to the web using views.
+- [nanoasgi](https://github.com/qweeze/nanoasgi) ★23 - A toy ASGI web framework (170 lines)
 
 
 ## REST frameworks
@@ -60,12 +63,16 @@
 - [Django Rest Framework](https://github.com/encode/django-rest-framework) ★28566 - a powerful and flexible toolkit for building Web APIs.
 - [Flask-Restful](https://github.com/flask-restful/flask-restful) ★6857 - Simple framework for creating REST APIs.
 - [Eve](https://github.com/pyeve/eve) ★6715 - an open source Python REST API framework based on Flask. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
-- [API star](https://github.com/encode/apistar) ★5572 - a framework-agnostic toolkit for working with OpenAPI or Swagger schemas.
 - [Connexion](https://github.com/zalando/connexion) ★4506 - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 - [Flask-Restx](https://github.com/python-restx/flask-restx) ★2169 - Fully featured framework for fast, easy and documented API development with Flask.
 - [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★673 - a REST API framework built upon Flask and marshmallow.
-- [Ripozo](https://github.com/vertical-knowledge/ripozo) ★201 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
 - [Djapy](https://github.com/Bishwas-py/djapy) ★67 - Django coupled with Pydantic, RestAPI framework
+
+### Dead REST frameworks
+
+- [API star](https://github.com/encode/apistar) ★5572 - a framework-agnostic toolkit for working with OpenAPI or Swagger schemas.
+- [Ripozo](https://github.com/vertical-knowledge/ripozo) ★201 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
+
 
 ## Front-end frameworks
 
