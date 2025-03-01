@@ -45,6 +45,7 @@
 - [Robyn](https://github.com/sansyrox/robyn) ★5213 - a fast and extensible async python web server with a rust runtime.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★2087 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 - [Esmerald](https://github.com/dymmond/esmerald) ★336 - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application.
+- [MicroPie](https://github.com/patx/micropie) ★151 - MicroPie is an ultra-micro ASGI Python web framework that gets out of your way. 
 
 
 ### More
