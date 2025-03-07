@@ -62,7 +62,6 @@
 ## REST frameworks
 
 - [Django Rest Framework](https://github.com/encode/django-rest-framework) ★28878 - a powerful and flexible toolkit for building Web APIs.
-- [Flask-Restful](https://github.com/flask-restful/flask-restful) ★6878 - Simple framework for creating REST APIs.
 - [Eve](https://github.com/pyeve/eve) ★6717 - an open source Python REST API framework based on Flask. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services. Eve offers native support for MongoDB, and SQL backends via community extensions.
 - [Connexion](https://github.com/zalando/connexion) ★4520 - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support.
 - [Flask-Restx](https://github.com/python-restx/flask-restx) ★2187 - Fully featured framework for fast, easy and documented API development with Flask.
@@ -71,6 +70,7 @@
 
 ### Dead REST frameworks
 
+- [Flask-Restful](https://github.com/flask-restful/flask-restful) ★6878 - Simple framework for creating REST APIs.
 - [API star](https://github.com/encode/apistar) ★5570 - a framework-agnostic toolkit for working with OpenAPI or Swagger schemas.
 - [Ripozo](https://github.com/vertical-knowledge/ripozo) ★201 -  A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python. [Dead]
 
