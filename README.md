@@ -35,11 +35,11 @@
 
 - [FastAPI](https://github.com/tiangolo/fastapi) ★82573 - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. Based on Starlette (see below).
   - [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) ★9354
-- [Sanic](https://github.com/sanic-org/sanic) ★18293 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy. Based on Starlette.
+- [Sanic](https://github.com/sanic-org/sanic) ★18293 - a Python 3.7+ web server and web framework that's written to go fast. It allows the usage of the async/await syntax added in Python 3.5, which makes your code non-blocking and speedy.
   - [Awesome Sanic](https://github.com/mekicha/awesome-sanic) ★758
 - [Aiohttp](https://github.com/aio-libs/aiohttp) ★15528 - Asynchronous HTTP client/server framework for asyncio and Python.
 - [Starlette](https://github.com/encode/starlette) ★10774 - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
-  - [Awesome Starlette](https://github.com/shitianfang/awesome-starlette) ★8
+  - [Awesome Starlette](https://github.com/sfermigier/awesome-starlette)
 - [Fasthtml](https://github.com/AnswerDotAI/fasthtml) ★6190 - "The fastest way to create an HTML app". (Based on Starlette).
 - [Litestar](https://github.com/litestar-org/litestar) ★6190 - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs.
   - [Awesome Litestar](https://github.com/litestar-org/awesome-litestar) ★104
