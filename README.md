@@ -107,14 +107,16 @@
 
 ## Usage stats
 
-See the "Frameworks and Libraries" section in the [Python Developers Survey 2020](https://www.jetbrains.com/lp/python-developers-survey-2020/).
+See the "Frameworks and Libraries" section in the [Python Developers Survey 2024](https://lp.jetbrains.com/python-developers-survey-2024/#frameworks-and-libraries).
 
-![Stats](https://raw.githubusercontent.com/sfermigier/awesome-python-web-frameworks/main/python-web-frameworks-usage.png)
+![Stats](/python-web-frameworks-usage.png)
 
-- Update 2021: <https://lp.jetbrains.com/python-developers-survey-2021/#FrameworksLibraries>
-- Update 2022: <https://lp.jetbrains.com/python-developers-survey-2022/#FrameworksLibraries>
-- Update 2023: <https://lp.jetbrains.com/python-developers-survey-2023/#FrameworksLibraries>
+### Historical
 
+- 2023: <https://lp.jetbrains.com/python-developers-survey-2023/#frameworks-and-libraries>
+- 2022: <https://lp.jetbrains.com/python-developers-survey-2022/#frameworks-and-libraries>
+- 2021: <https://lp.jetbrains.com/python-developers-survey-2021/#frameworks-and-libraries>
+- 2020: <https://www.jetbrains.com/lp/python-developers-survey-2020/#FrameworksLibraries>
 
 ## Comparisons
 
