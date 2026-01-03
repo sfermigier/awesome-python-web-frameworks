@@ -65,6 +65,11 @@
 - [Djapy](https://github.com/Bishwas-py/djapy) ★118 - Django coupled with Pydantic, RestAPI framework
 
 
+## External APIs & Services
+
+- [Vedika](https://vedika.io) ★ - REST API for Python web frameworks - Vedic astrology calculations with AI chatbot. 108+ endpoints, 22 languages, 97% accuracy. Python SDK with async support for Django, Flask, FastAPI.
+
+
 ## Front-end frameworks
 
 - [Reflex](https://github.com/reflex-dev/reflex) ★27310 - Reflex is a library to build full-stack web apps in pure Python.
