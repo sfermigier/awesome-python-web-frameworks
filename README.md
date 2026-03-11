@@ -45,6 +45,7 @@
 - [Fasthtml](https://github.com/AnswerDotAI/fasthtml) ★6848 - "The fastest way to create an HTML app". (Based on Starlette).
 - [Robyn](https://github.com/sansyrox/robyn) ★7064 - a fast and extensible async python web server with a rust runtime.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★2310 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
+- [Chirp](https://github.com/lbliii/chirp) ★1 - a Python ASGI web framework for HTML over the wire, streaming responses, and Server-Sent Events.
 - [Esmerald](https://github.com/dymmond/esmerald) ★386 - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application.
 - [MicroPie](https://github.com/patx/micropie) ★226 - MicroPie is an ultra-micro ASGI Python web framework that gets out of your way.
 - [nanoasgi](https://github.com/qweeze/nanoasgi) ★24 - A toy ASGI web framework (170 lines) (Dead, but useful for educational puposes.)
@@ -104,6 +105,7 @@
 - [daphne](https://github.com/django/daphne) ★2646 - A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP, developed to power Django Channels.
 - [Waitress](https://github.com/Pylons/waitress) ★1567 - A pure-Python WSGI server, it's simple, lightweight, and production-ready. It's often used with Pyramid and other WSGI applications.
 - [hypercorn](https://github.com/pgjones/hypercorn) ★1525 - ASGI server based on the sans-io hyper, h11, h2, and wsproto libraries.
+- [Pounce](https://github.com/lbliii/pounce) ★0 - a free-threading-native ASGI server for Python 3.14t with HTTP/1.1, HTTP/2, HTTP/3, WebSocket, and streaming support.
 
 ## Usage stats
 
