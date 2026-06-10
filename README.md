@@ -11,7 +11,7 @@
 ## Full-stack frameworks, including data layer (ORM)
 
 
-- [Django](https://github.com/django/django) ★87126 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templatting engine, etc.
+- [Django](https://github.com/django/django) ★87126 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templating engine, etc.
   - [Awesome Django](https://github.com/wsvincent/awesome-django) ★11033
 - [Emmett](https://github.com/emmett-framework/emmett) ★1210 - a full-stack Python web framework designed with simplicity in mind.
 
@@ -47,7 +47,7 @@
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) ★2321 - BlackSheep is an asynchronous web framework to build event based web applications with Python.
 - [Esmerald](https://github.com/dymmond/esmerald) ★388 - Highly scalable, performant, easy to learn, easy to code and for every sizeable and complex application.
 - [MicroPie](https://github.com/patx/micropie) ★229 - MicroPie is an ultra-micro ASGI Python web framework that gets out of your way.
-- [nanoasgi](https://github.com/qweeze/nanoasgi) ★25 - A toy ASGI web framework (170 lines) (Dead, but useful for educational puposes.)
+- [nanoasgi](https://github.com/qweeze/nanoasgi) ★25 - A toy ASGI web framework (170 lines) (Dead, but useful for educational purposes.)
 - [Chirp](https://github.com/lbliii/chirp) ★2 - a Python ASGI web framework for HTML over the wire, streaming responses, and Server-Sent Events.
 
 
