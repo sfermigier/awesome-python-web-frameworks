@@ -80,7 +80,7 @@
 - [Reactor](https://github.com/edelvalle/reactor) ★639 -  Phoenix LiveView but for Django
 - [Tetra](https://github.com/tetra-framework/tetra) ★611 - a full stack component framework for Django using Alpine.js
 - [Starfyre](https://github.com/sansyrox/starfyre) ★590 - A Python Framework for writing Reactive Front-End Applications.
-- [Django-Suckpuppet](https://github.com/jonathan-s/django-sockpuppet) ★450 - Build reactive applications with the django tooling you already know and love.
+- [Django-Sockpuppet](https://github.com/jonathan-s/django-sockpuppet) ★450 - Build reactive applications with the django tooling you already know and love.
 - [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) ★320 - a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
 - [Reacton](https://github.com/widgetti/reacton) ★316 - A pure Python port of React for ipywidgets.
 - [enaml-web](https://github.com/codelv/enaml-web) ★107 - Build interactive websites with [enaml](https://github.com/nucleic/enaml)
