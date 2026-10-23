@@ -21,6 +21,7 @@
   - [Awesome Flask](https://github.com/mjhea0/awesome-flask) ★1792
 - [Pyramid](https://github.com/Pylons/pyramid) ★4100 - a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
   - [Awesome Pyramid](https://github.com/uralbash/awesome-pyramid) ★573
+- [Quadkit](https://github.com/dbtinoy-/quadkit) ★2 - an async-first, contract-driven Python application framework with dependency injection, modules, typed configuration, and an ASGI web layer.
 - [Quart](https://github.com/pallets/quart) ★3674 - Quart is an asyncio reimplementation of the popular Flask microframework API. This means that if you understand Flask you understand Quart.
 
 ## Micro-frameworks
