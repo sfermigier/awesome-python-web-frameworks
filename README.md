@@ -22,6 +22,7 @@
 - [Pyramid](https://github.com/Pylons/pyramid) ★4100 - a small, fast, down-to-earth, open source Python web framework. It makes real-world web application development and deployment more fun, more predictable, and more productive.
   - [Awesome Pyramid](https://github.com/uralbash/awesome-pyramid) ★573
 - [Quart](https://github.com/pallets/quart) ★3674 - Quart is an asyncio reimplementation of the popular Flask microframework API. This means that if you understand Flask you understand Quart.
+- [Nexy](https://github.com/NexyPy/nexy) ★11 - a full-stack Python meta-framework with Next.js-style file routing, layouts and islands, built on FastAPI and Vite.
 
 ## Micro-frameworks
 
