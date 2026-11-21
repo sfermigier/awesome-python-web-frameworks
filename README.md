@@ -85,6 +85,7 @@
 - [Flask-Meld](https://github.com/mikeabrahamsen/Flask-Meld) ★318 - a library to provide server rendered templates over websockets for Flask applications to build reactive components without Javascript.
 - [Reacton](https://github.com/widgetti/reacton) ★317 - A pure Python port of React for ipywidgets.
 - [enaml-web](https://github.com/codelv/enaml-web) ★107 - Build interactive websites with [enaml](https://github.com/nucleic/enaml)
+- [Citry](https://github.com/citry-dev/citry) ★50 - Safe, fast, and smart Python frontend: typed components with server events and Vue, checked before your app runs. Works with Django, FastAPI and Flask.
 
 ## Frameworks for Micropython
 
